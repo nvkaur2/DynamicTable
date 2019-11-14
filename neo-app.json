@@ -1,0 +1,13 @@
+{
+	"routes": [{
+			"path": "/resources",
+			"target": {
+				"name": "sapui5",
+				"type": "service",
+				"entryPath": "/resources"
+
+			},
+			"description": "sapui5 loading"
+		}
+	]
+}
